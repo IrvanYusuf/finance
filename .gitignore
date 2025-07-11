@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 bank-dash.code-workspace
 
+.env
 node_modules
 dist
 dist-ssr
